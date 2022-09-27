@@ -8,5 +8,7 @@ burger
 noodles
 fry noodles
 
+fryes
+aloo tikki
 
 Thank you :)
